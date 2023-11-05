@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Lucas 👋
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistema - Universidade do oeste paulista (UNOESTE)
+- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistema - Universidade do Oeste Paulista (UNOESTE)
 - 👨‍💻 Estudando JavaScript, C.
 - 📫 Contate-me no email: joaolucas-05@outlook.com
 <div>
